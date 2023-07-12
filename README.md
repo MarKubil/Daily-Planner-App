@@ -17,7 +17,7 @@ It's shows current day, and colors on time block by the current time. It saves u
 
 
 
-Link to live page: [Click here](https://markubil.github.io/Daily-Planner-App/)
+Link to live page: [Click here](https://markubil.github.io/SCHEDULE-PLANNER/)
 
 
 ## Credits
